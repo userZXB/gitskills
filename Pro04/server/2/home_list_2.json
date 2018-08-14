@@ -1,0 +1,65 @@
+[
+  {
+  "portrait": "icon_portrait1",
+  "username":"lihua",
+  "image": ["icon_list1"],
+  "desc": "华为Mate8，你值得拥有！",
+  "time": "1分钟前"
+},
+  {
+    "portrait": "icon_portrait2",
+    "username":"alice",
+    "image": ["icon_list1","icon_list2"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "2分钟前"
+  },
+  {
+    "portrait": "icon_portrait3",
+    "username":"clair",
+    "image": ["icon_list1","icon_list2","icon_list3"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "3分钟前"
+  },
+  {
+    "portrait": "icon_portrait4",
+    "username":"Rose",
+    "image": ["icon_list1","icon_list2","icon_list3","icon_list4"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "4分钟前"
+  },
+  {
+    "portrait": "icon_portrait5",
+    "username":"bus",
+    "image": ["icon_list1","icon_list2","icon_list3","icon_list4","icon_list5"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "5分钟前"
+  },
+  {
+    "portrait": "icon_portrait6",
+    "username":"tom",
+    "image": ["icon_list1","icon_list2","icon_list3","icon_list4","icon_list5","icon_list6"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "6分钟前"
+  },
+  {
+    "portrait": "icon_portrait7",
+    "username":"dog",
+    "image": ["icon_list1","icon_list2","icon_list3","icon_list4","icon_list5","icon_list6","icon_list7"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "7分钟前"
+  },
+  {
+    "portrait": "icon_portrait7",
+    "username":"dog",
+    "image": ["icon_list1","icon_list2","icon_list3","icon_list4","icon_list5","icon_list6","icon_list7"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "7分钟前"
+  },
+  {
+    "portrait": "icon_portrait7",
+    "username":"dog",
+    "image": ["icon_list1","icon_list2","icon_list3","icon_list4","icon_list5","icon_list6","icon_list7"],
+    "desc": "华为Mate8，你值得拥有！",
+    "time": "7分钟前"
+  }
+]
