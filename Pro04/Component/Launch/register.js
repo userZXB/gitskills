@@ -200,7 +200,7 @@ export default class Register extends React.Component<Props>{
     }
     _IdPass(){
        return(
-           <Image source={require('./image/selected.jpg')} style={{width:20,height:20}}/>
+           <Image source={require('../../images/RegPic/selected.jpg')} style={{width:20,height:20}}/>
        ) ;
     }
     _IdFailed(){

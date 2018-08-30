@@ -1,6 +1,6 @@
 import React,{Component}from 'react';
 import {StyleSheet,View,Image,Dimensions}from 'react-native';
-import Login from '../Login/login';
+import Login from './login';
 import Main from '../Home/main';
 import Viewer from '../ImageView/viewer'
 // noinspection JSAnnotator

@@ -1,7 +1,7 @@
 import React,{Component}from 'react';
 var RSAKey= require('react-native-rsa');
 import {StyleSheet, View, Image, TextInput, Text, Dimensions, TouchableOpacity} from 'react-native';
-import Main from '../../Component/Home/main'
+import Main from '../Home/main'
 var Account;
 var Password;
 var PrivateKey;

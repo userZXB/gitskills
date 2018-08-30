@@ -10,7 +10,7 @@ import {createBottomTabNavigator, createStackNavigator} from "react-navigation";
 import ShoppingCart from "../Mine/shoppingCart";
 import MyAttention from "../Mine/MyAttention";
 import { YellowBox } from 'react-native';
-import AttentionHome from "../Community/AttentionHome";
+import AttentionHome from "../Mine/AttentionHome";
 import Activity from "../Mine/Myactivity";
 YellowBox.ignoreWarnings(['Warning: isMounted(...) is deprecated', 'Module RCTImageLoader']);
 const Tab = createBottomTabNavigator(

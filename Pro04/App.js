@@ -6,8 +6,8 @@
 
 import React, { Component } from 'react';
 import Launch from './Component/Launch/launch';
-import Login from './Component/Login/login';
-import Register from './Component/Login/register';
+import Login from './Component/Launch/login';
+import Register from './Component/Launch/register';
 import Main from './Component/Home/main';
 import { createStackNavigator} from 'react-navigation';
 import {AsyncStorage} from 'react-native';
